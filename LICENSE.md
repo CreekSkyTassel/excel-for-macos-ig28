@@ -1,4 +1,4 @@
-
+Enhance Excel for macOS with Excel for macOS smart Utility: pivot-tables & data-import-export, the #1 utility. Includes pivot-tables and data-import-export for a smoother and more
 
 
 
